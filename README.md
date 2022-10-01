@@ -15,7 +15,7 @@ The purpose of this analysis is to determine if a bike sharing program would be 
 - Male or male-indetified customers have more rides;
 - August peak hours are from 5pm-7pm
 
-![image](https://user-images.githubusercontent.com/103073631/179435206-e23a6e41-19ae-4ab7-92f9-84654b8ffd80.png)
+![image](https://github.com/nadiezhdamhb/bikesharing/blob/main/NYC%20CitiBike%20Dashboard.png)
 
 ##### b. Starting locations
 Popular start location is Manhattan. The size of the circles and darkness of the BLUE indicate the relative number of trips started at those locations. It is apparent that the bulk of the bike trips are originating in the densely populated areas, which always have heavier traffic all the day.
